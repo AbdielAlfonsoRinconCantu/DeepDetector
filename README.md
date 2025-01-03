@@ -31,7 +31,7 @@ Additional notes:
 
 Using git:
 
-    git clone https://github.com/AbdielAlfonsoRinconCantu/DeepDetector.git
+    $ git clone https://github.com/AbdielAlfonsoRinconCantu/DeepDetector.git
 
 # Usage #
 Run standalone:
