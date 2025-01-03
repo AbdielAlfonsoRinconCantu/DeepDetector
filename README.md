@@ -1,7 +1,7 @@
 # DeepDetector #
 A tkinter interface to track objects and count once they've reached a specified region, graphs displaying performance against an hourly-based set goal are displayed, and dynamic pre-trained recognition models are supported.
 
-![DeepDetector_Screenshot_0.PNG](DeepDetector_Screenshot_0.PNG)
+![DeepDetector_Screenshot_0.png](DeepDetector_Screenshot_0.png)
 
 # Before you install #
 
