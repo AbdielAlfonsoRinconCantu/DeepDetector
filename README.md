@@ -1,6 +1,8 @@
 # DeepDetector #
 A tkinter interface to track objects and count once they've reached a specified region, graphs displaying performance against an hourly-based set goal are displayed, and dynamic pre-trained recognition models are supported.
 
+![DeepDetector_Screenshot_0.PNG](DeepDetector_Screenshot_0.PNG)
+
 # Before you install #
 
 This project was tested on a Jetson Orin Nano running Jetson Linux paired with a USB camera, other setups may not be directly supported.
