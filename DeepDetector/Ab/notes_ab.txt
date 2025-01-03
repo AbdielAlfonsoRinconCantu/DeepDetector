@@ -1,0 +1,16 @@
+sudo nano /etc/systemd/system/launcher.service
+[Unit]
+Description=Run launcher.sh on startup
+After=network.target
+
+[Service]
+ExecStart=/home/auto/Desktop/launcher.sh
+WorkingDirectory=/home/auto/Desktop
+User=auto
+Group=auto
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+sudo systemctl daemon-reload
+sudo systemctl enable launcher.service
