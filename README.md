@@ -3,6 +3,10 @@ A tkinter interface to track objects and count once they've reached a specified 
 
 ![DeepDetector_Screenshot_0.png](DeepDetector_Screenshot_0.png)
 
+# Acknowledgments #
+
+Original code by [Oscar Meléndez](https://www.linkedin.com/in/oscar-mel%C3%A9ndez-09ab8476/?originalSubdomain=mx).
+
 # Before you install #
 
 This project was tested on a Jetson Orin Nano running Jetson Linux paired with a USB camera, other setups may not be directly supported.
